@@ -1,6 +1,9 @@
-### Awesome Profile Cards
+### Awesome Golden Cards
 
-Generador de tarjetas online Awesome Profile Cards.
+Team project for Adalab bootcamp assignment.
+
+- Refactor and improve inherited code (original project was from a previous team) in order to run in ReactJS.
+- Update CSS to reflect team personality.
 
 Team 6:
 
